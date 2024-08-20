@@ -1,7 +1,7 @@
 @echo off
-echo æ­£åœ¨ä¸Šä¼ æ–‡ä»¶åˆ°GitHubâ€¦
+echo ÕıÔÚÉÏ´«ÎÄ¼şµ½GitHub¡­
 git add .
-git commit -m â€œæ›´æ–°æ–‡ä»¶â€
+git commit -m ¡°¸üĞÂÎÄ¼ş¡±
 git push
-echo ä¸Šä¼ å®Œæˆï¼
+echo ÉÏ´«Íê³É£¡
 pause
