@@ -1,9 +1,9 @@
 backend:
   name: github
   branch: main
-  repo: serbia70/astro-paper-DecapCMS
-  site_domain: astro-paper-decapcms.vercel.app
-  base_url: https://astro-paper-decapcms.vercel.app/
+  repo: serbia70/netlify-cms-oauth-astro
+  site_domain: netlify-cms-oauth-astro.vercel
+  base_url: https://netlify-cms-oauth-astro.vercel.app/
   auth_endpoint: oauth
 
 media_folder: public/uploads
